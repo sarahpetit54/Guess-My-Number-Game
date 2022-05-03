@@ -20,5 +20,5 @@ HTML5, CSS3, Javascript
 <br/>
 <br/>
 
-![Guess My Number Win](https://user-images.githubusercontent.com/79552516/166478306-36c9a383-8a01-4fef-a1e6-4a7a45538652.png)
 ![Guess My Number Start](https://user-images.githubusercontent.com/79552516/166478319-8ae94d13-4dfe-45e1-aa63-3e7422eca2d0.png)
+![Guess My Number Win](https://user-images.githubusercontent.com/79552516/166478306-36c9a383-8a01-4fef-a1e6-4a7a45538652.png)
