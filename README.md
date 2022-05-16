@@ -5,7 +5,7 @@ Retro Design inspired from the 80's game.
 
 Part of my Javascript course: project to learn and practice DOM manipulation and understand events fundamentals.
 
-Play here: https://rainbow-speculoos-1bb7e0.netlify.app/
+Play here: https://guess-my-number-game-by-sarah.netlify.app
 
 <h1>Rule of the Game</h1>
 
